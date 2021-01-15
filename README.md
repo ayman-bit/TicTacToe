@@ -1,2 +1,2 @@
-# Data Structure
- This repository will be dedicated to learning sorting algorithms, linked-list, binary search trees and hash tables
+# TicTacToe Console Application
+ This repository is my implementation of TicTacToe in JAVA
